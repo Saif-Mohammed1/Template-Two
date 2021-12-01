@@ -1002,6 +1002,8 @@ footer .container .social-icons {
 
 footer .container .social-icons i {
   padding: 10px 20px;
+  cursor: pointer;
+
 }
 footer .container .copy-right {
   margin-top: 80px;
